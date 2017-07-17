@@ -26,10 +26,14 @@ prior to each US Supercomputing Conference in November.
 
 ## Mantevo Overview Paper
 
-[Improving Performance via Mini-applications (Mantevo Overview)](http://mantevo.org/MantevoOverview.pdf)
+[Improving Performance via Mini-applications (Mantevo Overview)](pdfs/MantevoOverview.pdf)
 
 ## Mantevo Virtual Machine
 
-A [VirtualBox](https://www.virtualbox.org/) virtual machine preloaded with the proxy apps featured at the SC12 Proxy App Tutorial is [available for download](http://mantevo.org/?page_id=70 "Tutorial"). Using the virtual machine is perhaps the simplest way to try some of the Mantevo proxy apps for the first time. VirtualBox runs on Linux, Mac, or Windows.
+A [VirtualBox](https://www.virtualbox.org/) virtual machine preloaded with the proxy apps 
+featured at the SC12 Proxy App Tutorial is 
+[available for download](tutorial.html). 
+Using the virtual machine is perhaps the simplest way to try some of the Mantevo proxy apps 
+for the first time. VirtualBox runs on Linux, Mac, or Windows.
 
 [logo_rd100](images/logo_rd100.png)
