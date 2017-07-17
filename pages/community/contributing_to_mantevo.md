@@ -12,7 +12,7 @@ We provide two primary mechanisms for contributing to Mantevo:
 The Mantevo Project welcomes contributions from new developers, 
 but we ask that you complete and submit a contributor agreement. 
 There are two versions of the agreement, 
-one for [individuals](http://mantevo.org/wordpress/wp-content/uploads/2015/01/mantevo-individual-contributor-agreement-v02.doc), 
-and one for [corporations](http://mantevo.org/wordpress/wp-content/uploads/2015/01/mantevo-corporate-contributor-agreement-v02.doc). Please look at both to determine which is right for you.
+one for [individuals](pdfs/mantevo-individual-contributor-agreement-v02.doc), 
+and one for [corporations](pdfs/mantevo-corporate-contributor-agreement-v02.doc). Please look at both to determine which is right for you.
 
-If you are thinking about contributing, you may want to subscribe to our [mail lists](http://mantevo.org/community/mail-lists/ "Mail Lists").
+If you are thinking about contributing, you may want to subscribe to our [mail lists](mail_lists.html).

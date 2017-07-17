@@ -12,8 +12,8 @@ This page has resources specific to the SC’12 Tutorial on Proxy Applications.
 
 *   [CoMD](https://github.com/exmatex/CoMD): Molecular Dynamics Proxy Applications Suite. Download a [zip](https://github.com/exmatex/CoMD/archive/master.zip) file or learn about how to get a read-only clone on the [CoMD github site](https://github.com/exmatex/CoMD).
 *   [LULESH](https://computation.llnl.gov/casc/ShockHydro): Shock Hydrodynamics Proxy Application. Download the serial distribution [here](https://computation.llnl.gov/casc/ShockHydro/LULESH-files/LULESH-1.0.1.tgz). A [hybrid (MPI/OpenMP)](http://www.mantevo.org/downloads/luleshMPI_OMP.cc) version of the source code is also available.
-*   [MiniFE](http://mantevo.org/wordpress/?page_id=10 "Packages"): Implicit Finite Element Proxy Application. Download the [reference](http://www.mantevo.org/downloads/miniFE_ref-1.2.tar.gz) version or the [full (reference + OpenMP)](http://www.mantevo.org/downloads/miniFE-1.2.tar.gz) version.
-*   [MiniGhost](http://mantevo.org/wordpress/?page_id=10 "Packages"): Finite-Difference Proxy Application. Download the [reference](http://www.mantevo.org/downloads/miniGhost_ref-0.1.tar.gz) version or the [full](http://www.mantevo.org/downloads/miniGhost-0.1.tar.gz) version.
+*   [MiniFE](packages.html): Implicit Finite Element Proxy Application. Download the [reference](http://www.mantevo.org/downloads/miniFE_ref-1.2.tar.gz) version or the [full (reference + OpenMP)](http://www.mantevo.org/downloads/miniFE-1.2.tar.gz) version.
+*   [MiniGhost](packages.html): Finite-Difference Proxy Application. Download the [reference](http://www.mantevo.org/downloads/miniGhost_ref-0.1.tar.gz) version or the [full](http://www.mantevo.org/downloads/miniGhost-0.1.tar.gz) version.
 
 ### Virtual Machine:
 

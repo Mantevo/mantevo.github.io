@@ -63,7 +63,7 @@ Reference version 1.0: Heat conduction code utilising implicit solvers (Conjugat
 For more information, or to download these packages, visit the following links.
 
 Mantevo website: [Mantevo.org](http://mantevo.org)  
-Mantevo Suite 3.0 [Download page](http://mantevo.org/?page_id=12 "Download")
+Mantevo Suite 3.0 [Download page](download.html)
 
 ## Mantevo Suite Release 2.0
 
@@ -78,7 +78,7 @@ Mantevo Suite Release 2.0 includes ten packages, including eight Miniapplication
 For more information, or to download these packages, visit the following links.
 
 Mantevo website: [Mantevo.org](http://mantevo.org)  
-Mantevo Suite 2.0 [Download page](http://mantevo.org/?page_id=12 "Download")
+Mantevo Suite 2.0 [Download page](download.html)
 
 ## Mantevo Suite Release 1.0
 
@@ -93,4 +93,4 @@ Mantevo Suite Release 1.0 includes eight packages, including seven Miniapplicati
 For more information, or to download these packages, visit the following links.
 
 Mantevo website: [Mantevo.org](http://mantevo.org)  
-Mantevo Suite 1.0 [Download page](http://mantevo.org/?page_id=75 "Previous Releases")
+Mantevo Suite 1.0 [Download page](previous_releases)

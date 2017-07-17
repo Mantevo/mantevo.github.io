@@ -5,9 +5,9 @@ permalink: download.html
 
 The current Mantevo Suite Release version is 3.0\. Each proxy application included in the Suite is distributed separately. Mantevo Suite Release 3.0 is comprised of thirteen miniapplications, and two minidrivers. This release contains five new miniapplications as well as updated versions of many of the proxy applications that were included in the 2.0 Suite Release. Whenever a new version of a proxy application is released, the Suite Release version is incremented.
 
-Previous releases can be found [here](http://mantevo.org/wordpress/?page_id=75 "Previous Releases").
+Previous releases can be found [here](previous_releases.html").
 
-See also the Mantevo Suite Release 3.0 [release notes](http://mantevo.org/download/release-notes/ "Release Notes").
+See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 
 *   **Miniapps**:
     *   *[CloverLeaf](http://uk-mac.github.io/CloverLeaf/): [Version 1.1](http://mantevo.org/downloads/CloverLeaf-1.1.html), [Reference Version 1.1](http://mantevo.org/downloads/CloverLeaf_ref-1.1.html)

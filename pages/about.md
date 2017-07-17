@@ -22,4 +22,4 @@ The Mantevo project is an effort to provide open-source software packages for th
 
 ### Mantevo Overview Paper
 
-[Improving Performance via Mini-applications (Mantevo Overview)](http://www.mantevo.org/MantevoOverview.pdf)
+[Improving Performance via Mini-applications (Mantevo Overview)](pdfs/MantevoOverview.pdf)
