@@ -1,0 +1,102 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+  - title: About
+    output: web
+    url: /about.html
+    folderitems:
+
+    - title: Applications
+      url: /applications.html
+      output: web
+
+    - title: Documentation
+      url: /documentation.html
+      output: web, pdf
+
+    - title: Publications
+      url: /publications.html
+      output: web
+
+    - title: Software Design
+      url: /software_design.html
+      output: web
+
+    - title: Team
+      url: /team.html
+      output: web
+
+  - title: Community
+    url: /community.html
+    output: web
+    folderitems:
+
+    - title: Contact
+      url: /contact.html
+      output: web
+
+    - title: Contributing to Mantevo
+      url: /contributing_to_mantevo.html.html
+      output: web
+
+    - title: Developer Tools
+      url: /developer_tools.html
+      output: web
+      submenus:
+
+        - title: Test Download
+          url: /test_download.html
+          output: web
+
+    - title: Events
+      url: /events.html
+      output: web
+      submenus:
+
+        - title: 2010 Miniapps Validation Workshop
+          url: /2010_miniapps_validation_workshop.html.html
+          output: web
+
+        - title: SC12 Proxy App Tutorial
+          url: /sc12_proxy_app_tutorial.html
+          output: web
+
+    - title: Mail Lists
+      url: /mail_lists.html
+      output: web
+
+  - title: Download
+    url: /download.html
+    output: web
+    folderitems:
+
+    - title: License
+      url: /license.html
+      output: web, pdf
+
+    - title: Previous release
+      url: /previous_releases.html
+      output: web
+
+    - title: Release Notes
+      url: /release_notes.html
+      output: web, pdf
+
+    - title: Tutorial
+      url: /tutorial.html
+      output: web
+
+  - title: Packages
+    url: /packages.html
+    output: web
+
+
+
+
+
+
+
