@@ -26,4 +26,4 @@ permalink: packages.html
     *   ***Epetra Kernels Benchmark:** Driver that executes key performance-impacting Epetra kernels for sparse matrix-vector, sparse matrix-multivector and dense kernels.*   **Motif frameworks:**
     *   **Prolego:** Driven by XML data sets that choose code fragments and weightings, Prolego can be easily configured to mimic the performance profile of a large variety of implicit and explicit unstructure finite element/volume applications.
 
-* Denotes a miniapp/minidriver that is included in the Mantevo Suite 3.0 release.
+*Denotes a miniapp/minidriver that is included in the Mantevo Suite 3.0 release.

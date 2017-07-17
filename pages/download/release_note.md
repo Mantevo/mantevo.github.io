@@ -1,7 +1,7 @@
 ---
 title: Release Notes
 folder: download
-permalink: release_note.html
+permalink: release_notes.html
 ---
 
 ## Mantevo Suite Release 3.0

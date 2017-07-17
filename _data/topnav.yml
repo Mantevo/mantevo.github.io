@@ -40,7 +40,7 @@ topnav_dropdowns:
       output: web
 
     - title: Contributing to Mantevo
-      url: /contributing_to_mantevo.html.html
+      url: /contributing_to_mantevo.html
       output: web
 
     - title: Developer Tools
@@ -58,7 +58,7 @@ topnav_dropdowns:
       submenus:
 
         - title: 2010 Miniapps Validation Workshop
-          url: /2010_miniapps_validation_workshop.html.html
+          url: /2010_miniapps_validation_workshop.html
           output: web
 
         - title: SC12 Proxy App Tutorial
