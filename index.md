@@ -15,7 +15,7 @@ simplify the need for parsing input files and mesh descriptions.
 Mini apps range in scale from partial, performance-coupled components of the application 
 to a simplified representation of a complete execution path through the application.
 
-![Don't Codesign Without Them](http://mantevo.org/wordpress/wp-content/uploads/2013/08/DontCodesignWithoutThem.png)
+![Don't Codesign Without Them](images/DontCodesignWithoutThem.png)
 
 Mantevo pioneered the concept of using miniapps as the central element in co-design efforts 
 for next-generation scalable computers and applications. 
@@ -32,4 +32,4 @@ prior to each US Supercomputing Conference in November.
 
 A [VirtualBox](https://www.virtualbox.org/) virtual machine preloaded with the proxy apps featured at the SC12 Proxy App Tutorial is [available for download](http://mantevo.org/?page_id=70 "Tutorial"). Using the virtual machine is perhaps the simplest way to try some of the Mantevo proxy apps for the first time. VirtualBox runs on Linux, Mac, or Windows.
 
-[![logo_rd100](http://mantevo.org/wordpress/wp-content/uploads/2013/08/logo_rd100.png)](http://mantevo.org/wordpress/?p=81)
+[logo_rd100](images/logo_rd100.png)

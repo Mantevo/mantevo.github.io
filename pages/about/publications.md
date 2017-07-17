@@ -12,7 +12,7 @@ permalink: publications.html
 ### How to cite the Mantevo project:
 
 @techreport{heroux2009improving,  
-title=\{\{Improving Performance via Mini-applications\}\},  
+title=\{{Improving Performance via Mini-applications}\},  
 author={Heroux, Michael A and Doerfler, Douglas W and Crozier, Paul S and Willenbring, James M and Edwards, H Carter and Williams, Alan and Rajan, Mahesh and Keiter, Eric R and Thornquist, Heidi K and Numrich, Robert W},  
 institution={Sandia National Laboratories},  
 number = {SAND2009-5574},  
