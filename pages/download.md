@@ -10,22 +10,22 @@ Previous releases can be found [here](previous_releases.html").
 See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 
 *   **Miniapps**:
-    *   *[CloverLeaf](http://uk-mac.github.io/CloverLeaf/): [Version 1.1](http://mantevo.org/downloads/CloverLeaf-1.1.html), [Reference Version 1.1](http://mantevo.org/downloads/CloverLeaf_ref-1.1.html)
-    *   **[CloverLeaf3D](http://uk-mac.github.io/CloverLeaf3D/): [Version 1.0](http://mantevo.org/downloads/CloverLeaf3D-1.0.html), [Reference Version 1.0](http://mantevo.org/downloads/CloverLeaf3D_ref-1.0.html)
-    *   [CoMD](http://exmatex.github.io/CoMD): [Reference Version 1.1](http://mantevo.org/downloads/CoMD_ref-1.1b.html)
-    *   HPCCG: [Reference Version 1.0](http://mantevo.org/downloads/HPCCG-1.0.html)
-    *   **MiniAero: [Version 1.0](http://mantevo.org/downloads/miniAero_1.0.html)
-    *   **MiniAMR: [Version 1.0](http://mantevo.org/downloads/miniAMR_1.0.html), [Reference Version 1.0](http://mantevo.org/downloads/miniAMR_ref_1.0.html)
-    *   *MiniFE: [Version 2.0.1](http://mantevo.org/downloads/miniFE_2.0.1.html) (new openmp_opt version), [Reference Version 2.0](http://mantevo.org/downloads/miniFE_ref_2.0.html)
-    *   MiniGhost: [Version 1.0.1](http://mantevo.org/downloads/miniGhost_1.0.1.html), [Reference Version 1.0.1](http://mantevo.org/downloads/miniGhost_ref_1.0.1.html)
-    *   *MiniMD: [Version 1.2](http://mantevo.org/downloads/miniMD_1.2.html) (update in upcoming minor suite release), [Reference Version 2.0](http://mantevo.org/downloads/miniMD_ref_2.0.html)
-    *   *MiniSMAC2D: [Reference Version 2.0](http://mantevo.org/downloads/miniSMAC2D_2.0.html) ([5kx5k](http://mantevo.org/downloads/Test_case_5kx5k.tar.gz), [7kx7k](http://mantevo.org/downloads/Test_case_7kx7k.tar.gz) test inputs)
-    *   MiniXyce: [Reference Version 1.0](http://mantevo.org/downloads/miniXyce_1.0.html)
-    *   **Pathfinder: [Version 1.0.0](http://mantevo.org/downloads/PathFinder_1.0.0.html)
-    *   **[TeaLeaf](http://uk-mac.github.io/TeaLeaf/): [Version 1.0](http://mantevo.org/downloads/TeaLeaf-1.0.html), [Reference Version 1.0](http://mantevo.org/downloads/TeaLeaf_ref-1.0.html)
+    *   *[CloverLeaf](http://uk-mac.github.io/CloverLeaf/): [Version 1.1](download_files/CloverLeaf-1.1.tar.gz), [Reference Version 1.1](download_files/CloverLeaf_ref-1.1.tar.gz)
+    *   **[CloverLeaf3D](http://uk-mac.github.io/CloverLeaf3D/): [Version 1.0](download_files/CloverLeaf3D-1.0.tar.gz), [Reference Version 1.0](download_files/CloverLeaf3D_ref-1.0.tar.gz)
+    *   [CoMD](http://exmatex.github.io/CoMD): [Reference Version 1.1](download_files/CoMD_Ref.tgz)
+    *   HPCCG: [Reference Version 1.0](download_files/HPCCG-1.0.tar.gz)
+    *   **MiniAero: [Version 1.0](download_files/MiniAero-v1.0-Mantevo.tar.gz)
+    *   **MiniAMR: [Version 1.0](download_files/miniAMR_1.0_all.tgz), [Reference Version 1.0](download_files/miniAMR_1.0_ref.tgz)
+    *   *MiniFE: [Version 2.0.1](download_files/miniFE-2.0.1.tgz) (new openmp_opt version), [Reference Version 2.0](download_files/miniFE_ref-2.0.tgz)
+    *   MiniGhost: [Version 1.0.1](download_files/miniGhost_1.0.1.tar.gz), [Reference Version 1.0.1](download_files/miniGhost_ref_1.0.1.tar.gz)
+    *   *MiniMD: [Version 1.2](download_files/miniMD_1.2.tgz) (update in upcoming minor suite release), [Reference Version 2.0](download_files/miniMD_ref-2.0.tgz)
+    *   *MiniSMAC2D: [Reference Version 2.0](download_files/miniSMAC2D-2.0.tgz) ([5kx5k](download_files/Test_case_5kx5k.tar.gz), [7kx7k](download_files/Test_case_7kx7k.tar.gz) test inputs)
+    *   MiniXyce: [Reference Version 1.0](download_files/miniXyce_1.0.tar.gz)
+    *   **Pathfinder: [Version 1.0.0](download_files/PathFinder_1.0.0.tgz)
+    *   **[TeaLeaf](http://uk-mac.github.io/TeaLeaf/): [Version 1.0](download_files/TeaLeaf-1.0.tar.gz), [Reference Version 1.0](download_files/TeaLeaf_ref-1.0.tar.gz)
 *   **Minidrivers**:
-    *   *[CleverLeaf](http://uk-mac.github.io/CleverLeaf/): [Version 2.0](http://mantevo.org/downloads/CleverLeaf-2.0.html), [Reference Version 2.0](http://mantevo.org/downloads/CleverLeaf_ref-2.0.html)
-    *   EpetraBenchmarkTest: [Version 1.0](http://mantevo.org/downloads/EpetraBenchmarkTest-1.0.html)
+    *   *[CleverLeaf](http://uk-mac.github.io/CleverLeaf/): [Version 2.0](download_files/CleverLeaf-2.0.tar.gz), [Reference Version 2.0](download_files/CleverLeaf-2.0.tar.gz)
+    *   EpetraBenchmarkTest: [Version 1.0](download_files/EpetraBenchmarkTest-1.0.tar.gz)
 
 ** New miniapp for Suite Release 3.0.  
 *New version of miniapp/minidriver for Suite Release 3.0.
