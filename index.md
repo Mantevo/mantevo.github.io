@@ -1,7 +1,6 @@
 ---
 title: Mantevo Project
 keywords: sample homepage
-tags: [getting_started]
 permalink: index.html
 ---
 
