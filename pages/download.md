@@ -9,6 +9,7 @@ Previous releases can be found [here](previous_releases.html").
 
 See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 
+<div>
 <ul>
 <li><strong>Miniapps</strong>:
 
@@ -94,12 +95,16 @@ See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 </li>
 </ul>
 
-** New miniapp for Suite Release 3.0.  
-*New version of miniapp/minidriver for Suite Release 3.0.
+** New miniapp for Suite Release 3.0.
+<br>
+*New version of miniapp/minidriver for Suite Release 3.0.<br>
+</div>
+
 
 ### Mantevo Tools
 
 *   [PylotDB/Co-PylotDB](https://github.com/dwbarne/PYLOTDB): Post-processing tools that accept Mantevo YAML output files. Co-PylotDB stores each file as a record in a user-specified local or remote MySQL database table. PylotDB is then used to access the database table and display it in a row-column format. Using PylotDB, data in YAML-formatted files are extracted to separate fields and displayed in a user-selectable row-column format for analysis and graphing with just a few clicks. Data can easily be accessed and compared across multiple tables and MySQL servers. Additional capabilities include MySQL database, table, and/or field creation or deletion; table field or element edits; individual table or entire database backup and restore, even to different servers; polynomial curve fitting, pie charts, X-Y graphs, frequency bar charts, scatter plots, and radar charts; and more.
+
 
 ## Open Source Software
 
