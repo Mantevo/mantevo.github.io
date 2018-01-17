@@ -9,7 +9,6 @@ Previous releases can be found [here](previous_releases.html").
 
 See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 
-<div>
 <ul>
 <li><strong>Miniapps</strong>:
 
@@ -98,14 +97,32 @@ See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 ** New miniapp for Suite Release 3.0.
 <br>
 *New version of miniapp/minidriver for Suite Release 3.0.<br>
-</div>
 
 
-### Mantevo Tools
+<h3 id="mantevotools">Mantevo Tools</h3>
 
-*   [PylotDB/Co-PylotDB](https://github.com/dwbarne/PYLOTDB): Post-processing tools that accept Mantevo YAML output files. Co-PylotDB stores each file as a record in a user-specified local or remote MySQL database table. PylotDB is then used to access the database table and display it in a row-column format. Using PylotDB, data in YAML-formatted files are extracted to separate fields and displayed in a user-selectable row-column format for analysis and graphing with just a few clicks. Data can easily be accessed and compared across multiple tables and MySQL servers. Additional capabilities include MySQL database, table, and/or field creation or deletion; table field or element edits; individual table or entire database backup and restore, even to different servers; polynomial curve fitting, pie charts, X-Y graphs, frequency bar charts, scatter plots, and radar charts; and more.
+<ul>
+    <li>
+        <a href="https://github.com/dwbarne/PYLOTDB">PylotDB/Co-PylotDB</a>: 
+        Post-processing tools that accept Mantevo YAML output files. 
+        Co-PylotDB stores each file as a record in a user-specified local or remote MySQL database table. 
+        PylotDB is then used to access the database table and display it in a row-column format. 
+        Using PylotDB, data in YAML-formatted files are extracted to separate fields and displayed in 
+        a user-selectable row-column format for analysis and graphing with just a few clicks. 
+        Data can easily be accessed and compared across multiple tables and MySQL servers. 
+        Additional capabilities include MySQL database, table, and/or field creation or deletion; 
+        table field or element edits; individual table or entire database backup and restore, 
+        even to different servers; polynomial curve fitting, pie charts, X-Y graphs, frequency bar charts, 
+        scatter plots, and radar charts; and more.
+    </li>
+</ul>
 
+<h2 id="opensourcesoftware">Open Source Software</h2>
 
-## Open Source Software
-
-Mantevo proxy applications are open source software. Some Mantevo proxy applications are available for download under a [GNU Lesser General Public License (LGPL)](http://www.gnu.org/copyleft/lgpl.html), others are available under a BSD License. The license for each proxy app is specified in the applicable tarball. Release announcements will be sent to the Mantevo-Announce@software.sandia.gov mail list.
+<p>
+    Mantevo proxy applications are open source software. 
+    Some Mantevo proxy applications are available for download under a 
+    <a href="http://www.gnu.org/copyleft/lgpl.html">GNU Lesser General Public License (LGPL)</a>, 
+    others are available under a BSD License. The license for each proxy app is specified in the applicable tarball. 
+    Release announcements will be sent to the Mantevo-Announce@software.sandia.gov mail list.
+</p>
