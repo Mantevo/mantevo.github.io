@@ -9,6 +9,48 @@ Previous releases can be found [here](previous_releases.html").
 
 See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 
+<ul>
+<li><strong>Miniapps</strong>:
+
+
+<ul>
+<li><em><a href="http://uk-mac.github.io/CloverLeaf/">CloverLeaf</a>: <a href="download_files/CloverLeaf-1.1.tar.gz" class="downloadLink" name="CloverLeaf-1.1">Version 1.1</a>, <a href="download_files/CloverLeaf_ref-1.1.tar.gz" class="downloadLink" name="CloverLeaf_ref-1.1">Reference Version 1.1</a></li>
+
+<li><strong><a href="http://uk-mac.github.io/CloverLeaf3D/">CloverLeaf3D</a>: <a href="download_files/CloverLeaf3D-1.0.tar.gz">Version 1.0</a>, <a href="download_files/CloverLeaf3D_ref-1.0.tar.gz">Reference Version 1.0</a></li>
+
+<li><a href="http://exmatex.github.io/CoMD">CoMD</a>: <a href="download_files/CoMD_Ref.tgz">Reference Version 1.1</a></li>
+
+<li>HPCCG: <a href="download_files/HPCCG-1.0.tar.gz">Reference Version 1.0</a></li>
+
+<li></strong>MiniAero: <a href="download_files/MiniAero-v1.0-Mantevo.tar.gz">Version 1.0</a></li>
+
+<li><strong>MiniAMR: <a href="download_files/miniAMR_1.0_all.tgz">Version 1.0</a>, <a href="download_files/miniAMR_1.0_ref.tgz">Reference Version 1.0</a></li>
+
+<li></em>MiniFE: <a href="download_files/miniFE-2.0.1.tgz">Version 2.0.1</a> (new openmp_opt version), <a href="download_files/miniFE_ref-2.0.tgz">Reference Version 2.0</a></li>
+
+<li>MiniGhost: <a href="download_files/miniGhost_1.0.1.tar.gz">Version 1.0.1</a>, <a href="download_files/miniGhost_ref_1.0.1.tar.gz">Reference Version 1.0.1</a></li>
+
+<li><em>MiniMD: <a href="download_files/miniMD_1.2.tgz">Version 1.2</a> (update in upcoming minor suite release), <a href="download_files/miniMD_ref-2.0.tgz">Reference Version 2.0</a></li>
+
+<li></em>MiniSMAC2D: <a href="download_files/miniSMAC2D-2.0.tgz">Reference Version 2.0</a> (<a href="download_files/Test_case_5kx5k.tar.gz">5kx5k</a>, <a href="download_files/Test_case_7kx7k.tar.gz">7kx7k</a> test inputs)</li>
+
+<li>MiniXyce: <a href="download_files/miniXyce_1.0.tar.gz">Reference Version 1.0</a></li>
+
+<li></strong>Pathfinder: <a href="download_files/PathFinder_1.0.0.tgz">Version 1.0.0</a></li>
+
+<li>**<a href="http://uk-mac.github.io/TeaLeaf/">TeaLeaf</a>: <a href="download_files/TeaLeaf-1.0.tar.gz">Version 1.0</a>, <a href="download_files/TeaLeaf_ref-1.0.tar.gz">Reference Version 1.0</a></li></ul>
+</li>
+
+<li><strong>Minidrivers</strong>:
+
+
+<ul>
+<li>*<a href="http://uk-mac.github.io/CleverLeaf/">CleverLeaf</a>: <a href="download_files/CleverLeaf-2.0.tar.gz">Version 2.0</a>, <a href="download_files/CleverLeaf-2.0.tar.gz">Reference Version 2.0</a></li>
+
+<li>EpetraBenchmarkTest: <a href="download_files/EpetraBenchmarkTest-1.0.tar.gz">Version 1.0</a></li></ul>
+</li>
+</ul>
+
 *   **Miniapps**:
     *   *[CloverLeaf](http://uk-mac.github.io/CloverLeaf/): [Version 1.1](download_files/CloverLeaf-1.1.tar.gz), [Reference Version 1.1](download_files/CloverLeaf_ref-1.1.tar.gz)
     *   **[CloverLeaf3D](http://uk-mac.github.io/CloverLeaf3D/): [Version 1.0](download_files/CloverLeaf3D-1.0.tar.gz), [Reference Version 1.0](download_files/CloverLeaf3D_ref-1.0.tar.gz)
