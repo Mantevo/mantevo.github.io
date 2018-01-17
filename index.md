@@ -38,3 +38,4 @@ for the first time. VirtualBox runs on Linux, Mac, or Windows.
 ![logo_rd100](images/logo_rd100.png)
 
 <a href="#" class="downloadLink" name="test">Download</a>
+<a href="#" class="downloadLink" name="test2">Download</a>

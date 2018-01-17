@@ -12,7 +12,7 @@
   $(document).ready(function(){
     $('a.downloadLink').click(function() {
         gtag('event', 'download', {
-            'filename':  $(this).attr('name'),
+            'event_label':  $(this).attr('name'),
         });
     });
   });
