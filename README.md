@@ -23,6 +23,10 @@ Home page is in **index.md**
 
 All the contents are in **pages** directory and located in appropriate sub_folders correspond to the website
 All the contents are written in `markdown` and editable.
+
+---
+
+More details on update website can be found [here](https://cse-software.github.io/Howto/MantevoMaintenance.html) 
  
 
 
