@@ -16,19 +16,19 @@ See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 <ul>
 <li>
     *<a href="http://uk-mac.github.io/CloverLeaf/">CloverLeaf</a>: 
-    <a href="http://mantevo.org/downloads/CloverLeaf-1.1.html" class="downloadLink" name="CloverLeaf-1.1">Version 1.1</a>, 
-    <a href="http://mantevo.org/downloads/CloverLeaf_ref-1.1.html" class="downloadLink" name="CloverLeaf_ref-1.1">Reference Version 1.1</a>
+    <a href="http://downloads.mantevo.org/CloverLeaf-1.1.html" class="downloadLink" name="CloverLeaf-1.1">Version 1.1</a>, 
+    <a href="http://downloads.mantevo.org/CloverLeaf_ref-1.1.html" class="downloadLink" name="CloverLeaf_ref-1.1">Reference Version 1.1</a>
 </li>
 
 <li>
     **<a href="http://uk-mac.github.io/CloverLeaf3D/">CloverLeaf3D</a>: 
-    <a href="http://mantevo.org/downloads/CloverLeaf3D-1.0.html" class="downloadLink" name="CloverLeaf3D-1.0">Version 1.0</a>, 
-    <a href="http://mantevo.org/downloads/CloverLeaf3D_ref-1.0.html" class="downloadLink" name="CloverLeaf3D_ref-1.0">Reference Version 1.0</a>
+    <a href="http://downloads.mantevo.org/CloverLeaf3D-1.0.html" class="downloadLink" name="CloverLeaf3D-1.0">Version 1.0</a>, 
+    <a href="http://downloads.mantevo.org/CloverLeaf3D_ref-1.0.html" class="downloadLink" name="CloverLeaf3D_ref-1.0">Reference Version 1.0</a>
 </li>
 
 <li>
     <a href="http://exmatex.github.io/CoMD">CoMD</a>: 
-    <a href="http://mantevo.org/downloads/CoMD_ref-1.1b.html" class="downloadLink" name="CoMD_Ref">Reference Version 1.1</a>
+    <a href="http://downloads.mantevo.org/CoMD_ref-1.1b.html" class="downloadLink" name="CoMD_Ref">Reference Version 1.1</a>
 </li>
 
 <li>
@@ -36,47 +36,47 @@ See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 </li>
 
 <li>
-    **MiniAero: <a href="http://mantevo.org/downloads/miniAero_1.0.html" class="downloadLink" name="MiniAero-v1.0-Mantevo">Version 1.0</a>
+    **MiniAero: <a href="http://downloads.mantevo.org/miniAero_1.0.html" class="downloadLink" name="MiniAero-v1.0-Mantevo">Version 1.0</a>
 </li>
 
 <li>
-    **MiniAMR: <a href="http://mantevo.org/downloads/miniAMR_1.0.html" class="downloadLink" name="miniAMR_1.0_all">Version 1.0</a>,
-    <a href="http://mantevo.org/downloads/miniAMR_ref_1.0.html" class="downloadLink" name="miniAMR_1.0_ref">Reference Version 1.0</a>
+    **MiniAMR: <a href="http://downloads.mantevo.org/miniAMR_1.0.html" class="downloadLink" name="miniAMR_1.0_all">Version 1.0</a>,
+    <a href="http://downloads.mantevo.org/miniAMR_ref_1.0.html" class="downloadLink" name="miniAMR_1.0_ref">Reference Version 1.0</a>
 </li>
 
 <li>
-    *MiniFE: <a href="http://mantevo.org/downloads/miniFE_2.0.1.html" class="downloadLink" name="miniFE-2.0.1">Version 2.0.1</a> (new openmp_opt version),
-    <a href="http://mantevo.org/downloads/miniFE_ref_2.0.html" class="downloadLink" name="miniFE_ref-2.0">Reference Version 2.0</a>
+    *MiniFE: <a href="http://downloads.mantevo.org/miniFE_2.0.1.html" class="downloadLink" name="miniFE-2.0.1">Version 2.0.1</a> (new openmp_opt version),
+    <a href="http://downloads.mantevo.org/miniFE_ref_2.0.html" class="downloadLink" name="miniFE_ref-2.0">Reference Version 2.0</a>
 </li>
 
 <li>
-    MiniGhost: <a href="http://mantevo.org/downloads/miniGhost_1.0.1.html" class="downloadLink" name="miniGhost_1.0.1">Version 1.0.1</a>, 
-    <a href="http://mantevo.org/downloads/miniGhost_ref_1.0.1.html" class="downloadLink" name="miniGhost_ref_1.0.1">Reference Version 1.0.1</a>
+    MiniGhost: <a href="http://downloads.mantevo.org/miniGhost_1.0.1.html" class="downloadLink" name="miniGhost_1.0.1">Version 1.0.1</a>, 
+    <a href="http://downloads.mantevo.org/miniGhost_ref_1.0.1.html" class="downloadLink" name="miniGhost_ref_1.0.1">Reference Version 1.0.1</a>
 </li>
 
 <li>
-    *MiniMD: <a href="http://mantevo.org/downloads/miniMD_1.2.html" class="downloadLink" name="miniMD_1.2">Version 1.2</a> (update in upcoming minor suite release),
-    <a href="http://mantevo.org/downloads/miniMD_ref_2.0.html" class="downloadLink" name="miniMD_ref-2.0">Reference Version 2.0</a>
+    *MiniMD: <a href="http://downloads.mantevo.org/miniMD_1.2.html" class="downloadLink" name="miniMD_1.2">Version 1.2</a> (update in upcoming minor suite release),
+    <a href="http://downloads.mantevo.org/miniMD_ref_2.0.html" class="downloadLink" name="miniMD_ref-2.0">Reference Version 2.0</a>
 </li>
 
 <li>
     *MiniSMAC2D: <a href="download_files/miniSMAC2D-2.0.tgz" class="downloadLink" name="miniSMAC2D-2.0">Reference Version 2.0</a> 
-    (<a href="http://mantevo.org/downloads/Test_case_5kx5k.tar.gz" class="downloadLink" name="Test_case_5kx5k">5kx5k</a>,
-    <a href="http://mantevo.org/downloads/Test_case_7kx7k.tar.gz" class="downloadLink" name="Test_case_7kx7k">7kx7k</a> test inputs)
+    (<a href="http://downloads.mantevo.org/Test_case_5kx5k.tar.gz" class="downloadLink" name="Test_case_5kx5k">5kx5k</a>,
+    <a href="http://downloads.mantevo.org/Test_case_7kx7k.tar.gz" class="downloadLink" name="Test_case_7kx7k">7kx7k</a> test inputs)
 </li>
 
 <li>
-    MiniXyce: <a href="http://mantevo.org/downloads/miniXyce_1.0.html" class="downloadLink" name="miniXyce_1.0">Reference Version 1.0</a>
+    MiniXyce: <a href="http://downloads.mantevo.org/miniXyce_1.0.html" class="downloadLink" name="miniXyce_1.0">Reference Version 1.0</a>
 </li>
 
 <li>
-    **Pathfinder: <a href="http://mantevo.org/downloads/PathFinder_1.0.0.html" class="downloadLink" name="PathFinder_1.0.0">Version 1.0.0</a>
+    **Pathfinder: <a href="http://downloads.mantevo.org/PathFinder_1.0.0.html" class="downloadLink" name="PathFinder_1.0.0">Version 1.0.0</a>
 </li>
 
 <li>
     **<a href="http://uk-mac.github.io/TeaLeaf/">TeaLeaf</a>:
-    <a href="http://mantevo.org/downloads/TeaLeaf-1.0.html" class="downloadLink" name="TeaLeaf-1.0">Version 1.0</a>, 
-    <a href="http://mantevo.org/downloads/TeaLeaf_ref-1.0.html" class="downloadLink" name="TeaLeaf_ref-1.0">Reference Version 1.0</a>
+    <a href="http://downloads.mantevo.org/TeaLeaf-1.0.html" class="downloadLink" name="TeaLeaf-1.0">Version 1.0</a>, 
+    <a href="http://downloads.mantevo.org/TeaLeaf_ref-1.0.html" class="downloadLink" name="TeaLeaf_ref-1.0">Reference Version 1.0</a>
 </li>
 </ul>
 
@@ -85,12 +85,12 @@ See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 <ul>
 <li>
     *<a href="http://uk-mac.github.io/CleverLeaf/">CleverLeaf</a>: 
-    <a href="http://mantevo.org/downloads/CleverLeaf-2.0.html" class="downloadLink" name="CleverLeaf-2.0">Version 2.0</a>, 
-    <a href="http://mantevo.org/downloads/CleverLeaf_ref-2.0.html" class="downloadLink" name="CleverLeaf-2_Ref.0">Reference Version 2.0</a>
+    <a href="http://downloads.mantevo.org/CleverLeaf-2.0.html" class="downloadLink" name="CleverLeaf-2.0">Version 2.0</a>, 
+    <a href="http://downloads.mantevo.org/CleverLeaf_ref-2.0.html" class="downloadLink" name="CleverLeaf-2_Ref.0">Reference Version 2.0</a>
 </li>
 
 <li>
-    EpetraBenchmarkTest: <a href="http://mantevo.org/downloads/EpetraBenchmarkTest-1.0.html" class="downloadLink" name="EpetraBenchmarkTest-1.0">Version 1.0</a>
+    EpetraBenchmarkTest: <a href="http://downloads.mantevo.org/EpetraBenchmarkTest-1.0.html" class="downloadLink" name="EpetraBenchmarkTest-1.0">Version 1.0</a>
 </li>
 </ul>
 
