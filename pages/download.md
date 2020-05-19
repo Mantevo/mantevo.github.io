@@ -32,7 +32,7 @@ See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 </li>
 
 <li>
-    HPCCG: <a href="download_files/HPCCG-1.0.tar.gz" class="downloadLink" name="HPCCG-1.0">Reference Version 1.0</a>
+    HPCCG: <a href="http://downloads.mantevo.org/HPCCG-1.0.html" class="downloadLink" name="HPCCG-1.0">Reference Version 1.0</a>
 </li>
 
 <li>
@@ -60,7 +60,7 @@ See also the Mantevo Suite Release 3.0 [release notes](release_notes.html").
 </li>
 
 <li>
-    *MiniSMAC2D: <a href="download_files/miniSMAC2D-2.0.tgz" class="downloadLink" name="miniSMAC2D-2.0">Reference Version 2.0</a> 
+    *MiniSMAC2D: <a href="http://downloads.mantevo.org/miniSMAC2D_2.0.html" class="downloadLink" name="miniSMAC2D-2.0">Reference Version 2.0</a> 
     (<a href="http://downloads.mantevo.org/Test_case_5kx5k.tar.gz" class="downloadLink" name="Test_case_5kx5k">5kx5k</a>,
     <a href="http://downloads.mantevo.org/Test_case_7kx7k.tar.gz" class="downloadLink" name="Test_case_7kx7k">7kx7k</a> test inputs)
 </li>
